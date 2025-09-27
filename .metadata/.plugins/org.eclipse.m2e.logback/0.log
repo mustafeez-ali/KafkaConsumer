@@ -1,0 +1,11 @@
+2025-09-27 09:22:44,974 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-09-27 09:23:26,276 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring-boot-security-demo-1:0.0.1-SNAPSHOT @ D:\DevBackend\LibraryKafkaEventConsumerSecurity\pom.xml.
+2025-09-27 09:23:27,461 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-security-demo-1/src/main/java
+2025-09-27 09:23:27,466 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-security-demo-1/src/main/resources
+2025-09-27 09:23:27,467 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-security-demo-1/src/main/resources
+2025-09-27 09:23:27,469 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-security-demo-1/src/test/java
+2025-09-27 09:23:27,470 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-security-demo-1/src/test/resources
+2025-09-27 09:23:27,737 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2025-09-27 09:23:29,564 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-27 09:23:29,585 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-27 09:23:29,591 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DevBackend\LibraryKafkaEventConsumerSecurity\src\test\resources
